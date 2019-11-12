@@ -39,10 +39,10 @@ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }
 
-@media only screen and (max-width: 3200px) {
+@media (max-width: 375px) {
 
   h1 { 
-     font-size: 1.5em; 
+     font-size: 2.0em; 
   }
 
 }
